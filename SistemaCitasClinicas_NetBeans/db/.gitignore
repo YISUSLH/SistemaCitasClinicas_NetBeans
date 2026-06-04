@@ -1,0 +1,3 @@
+# Mantener carpeta db, pero no subir CSV generados
+*.csv
+!.gitignore

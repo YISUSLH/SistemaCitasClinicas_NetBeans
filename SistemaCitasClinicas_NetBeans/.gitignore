@@ -1,0 +1,14 @@
+# NetBeans
+/nbproject/private/
+/build/
+/dist/
+
+# Java
+*.class
+
+# Temporales
+*.swp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
